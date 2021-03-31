@@ -1,0 +1,17 @@
+This is a simple app which can be made by any simple or a basic level programmer
+
+We can use this app where you and your friends have to pay money and divide it themselves 
+, so to make that work easy i have made a small, indstead very small app  
+
+First things first 
+i  first named a variable money in which initialized the yser input to store the amount of 
+money to be paid 
+
+then inialized the variable called members which says the amount of members or people who have to share the
+money among themselves 
+
+then a new variavle which is named as shares which says thatthe aount of money shared which is equal to 
+
+the total money divided by total members 
+
+the just printed the variable shares 
